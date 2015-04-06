@@ -1,9 +1,11 @@
 ## Programming Test Software Engineer
 
 ## Installation
-$ git clone 
-$ cd sains
-$php composer.phar install
+$ git clone git@github.com:geekass/technical_test.git
+
+$ cd technical_test
+
+$ php composer.phar install
 
 ## Running
 
